@@ -1,0 +1,5 @@
+baseURL: "https://examplesite.com/"
+title: Waste Site
+paginate: 5
+theme: PaperMod
+
